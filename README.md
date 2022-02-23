@@ -16,11 +16,14 @@
 
 ```mermaid
   journey
-    title My Journey to become a dev
-    section Go to work
-      2019: 5: Me
+    title My Journey as a dev thus far
+    section Learnt ML
+      2019: 7: Me
       2020: 3: Me
+    section Bootcamp and unemployed
       2021: 1: Me
+    section Employed and creating
+      2020: 3: Me
     section Present
       life: 5: Me
       work: 3: Me
