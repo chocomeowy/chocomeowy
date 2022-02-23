@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![chocomeowy's GitHub stats]](https://github.com/chocomeowy/github-readme-stats)
-[![Top Langs]](https://github.com/chocomeowy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy)]
