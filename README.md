@@ -1,3 +1,6 @@
+![img](https://i.imgur.com/gFFbMBH.png)
+>Creation without purpose is pointless
+
 - 👋 Hi, I’m @chocomeowy
 - 👀 I’m interested in Web development, App development, Machine Learning and other latest technologies. 
 - 🌱 I’m currently learning Python, Machine Learning, Javascript, React Native, MERN stack
@@ -8,6 +11,7 @@
 chocomeowy/chocomeowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+`code ? code : no code`
 
 ![chocomeowy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomeowy&theme=merko)
 
