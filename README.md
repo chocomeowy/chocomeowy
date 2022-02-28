@@ -22,8 +22,8 @@
     section Bootcamp and unemployed
       2021: 1: Me
     section Employed and creating
-      2020: 3: Me
+      2022: 3: Me
     section Present
-      life: 5: Me
+      life: 2: Me
       work: 3: Me
 ```
