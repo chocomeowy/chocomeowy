@@ -9,8 +9,6 @@
 
 `code ? code : no code`
 
-![chocomeowy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomeowy&theme=merko)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=gotham)
 
 ```mermaid
