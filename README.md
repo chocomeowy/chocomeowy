@@ -9,8 +9,6 @@
 
 `code ? code : no code`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=gotham)
-
 ```mermaid
   journey
     title My Journey as a dev thus far
@@ -25,3 +23,5 @@
       life: 2: Me
       work: 3: Me
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=gotham)
