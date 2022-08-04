@@ -21,8 +21,8 @@
     section Employed and creating
       2022: 3: Me
     section Present
-      life: 2: Me
       work: 3: Me
+      life: 7: Me
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=gotham)
