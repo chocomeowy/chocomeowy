@@ -9,6 +9,7 @@
 - 🤗 A few of my deployed projects here https://linktr.ee/yongfahjin
 
 `code ? code : no code`
+`code && life` not `code || life`
 
 ```mermaid
   journey
