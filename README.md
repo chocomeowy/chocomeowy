@@ -2,7 +2,7 @@
 >Creation without purpose is pointless
 
 - 👋 Hi, I’m @chocomeowy
-- 👀 I’m interested in Web development, App development, Machine Learning and other latest technologies. 
+- 👀 I’m interested in Web development, App development, Machine Learning and other tech that help create a better world. 
 - 🌱 I’m currently learning Python, Machine Learning, Javascript, ReactJS, NextJS, React Native, MERN stack, Vue, FastApi, Flask, Quasar and SPA, PWA
 - 💞️ I’m looking to collaborate on Web App developments and new ideas
 - 📫 You can reach me here. yongfahjin@hotmail.com
