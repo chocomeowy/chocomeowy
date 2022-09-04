@@ -28,4 +28,6 @@
       life: 7: Me
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
+
+[![Fah Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomeowy)]
