@@ -28,4 +28,5 @@
       life: 7: Me
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomeowy?theme=blue-green)]
