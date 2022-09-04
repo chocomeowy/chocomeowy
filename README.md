@@ -7,10 +7,9 @@
 - 🍮 Looking into free hosting. RIP Heroku. 
 - 💞️ I’m looking to collaborate on developments or new ideas or new tech.
 - 📫 You can reach me here. yongfahjin@hotmail.com
-- 🤗 A few of my deployed projects here https://linktr.ee/yongfahjin
+- 🤗 A few of my deployed projects here. https://linktr.ee/yongfahjin
 
-`code ? code : no code`
-`code && life` not `code || life`
+`code ? code : no code` `code && life` not `code || life`
 
 ```mermaid
   journey
@@ -29,4 +28,4 @@
       life: 7: Me
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
