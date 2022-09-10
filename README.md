@@ -1,6 +1,7 @@
 ![img](https://i.imgur.com/gFFbMBH.png)
 >Creation without purpose is pointless
->Life is ever rediscovery
+
+>Life is constant re-discovery
 
 - 👋 Hi, I’m @chocomeowy
 - 👀 I’m interested in Web development, App development, Machine Learning and other tech that help create a better world. 
