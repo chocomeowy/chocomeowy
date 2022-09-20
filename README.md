@@ -14,7 +14,6 @@
 `code ? code : no code` `code && life` not `code || life`
 `const life = code && food && time && health` 
 
-
 ```mermaid
   journey
     title My Journey as a dev thus far
