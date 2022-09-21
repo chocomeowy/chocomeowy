@@ -2,7 +2,6 @@
 >Creation without purpose is pointless
 
 >Life is constant re-discovery 
-
 - 👋 Hi, I’m @chocomeowy
 - 👀 I’m interested in Web development, App development, Machine Learning and other tech that help create a better world. 
 - 🌱 I’m currently using Python, Machine Learning, Javascript, ReactJS, NextJS, React Native, MERN stack, Vue, FastApi, Flask, Quasar and SPA, PWA.
