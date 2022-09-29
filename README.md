@@ -11,6 +11,7 @@
 - 🤗 A few of my deployed projects here. https://linktr.ee/yongfahjin
 
 `code ? code : no code` `code && life` not `code || life`
+
 `const life = code && food && time && health && cat` 
 
 ```mermaid
