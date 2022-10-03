@@ -12,6 +12,7 @@
 
 `code ? code : no code` `code && life` not `code || life`
 
+
 `const life = code && food && time && health && cat` 
 
 ```mermaid
