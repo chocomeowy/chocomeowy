@@ -22,8 +22,10 @@
       2020: 3: Me
     section Bootcamp and unemployed
       2021: 1: Me
-    section Employed and creating
+    section Employed and creating AI applications
       2022: 3: Me
+    section Moved to DBS 
+      2023: 3: Me
     section Present
       work: 3: Me
       life: 7: Me
@@ -32,4 +34,3 @@
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomeowy&theme=vision-friendly-dark&count_private=true&show_icons=true)
-![Fah Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocomeowy&theme=aura)
