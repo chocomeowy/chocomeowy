@@ -7,7 +7,7 @@
 - 🌱 I’m currently using Python, Machine Learning, Javascript, ReactJS, NextJS, React Native, MERN stack, Vue, AstroJS, FastApi, Flask, django, Quasar and SPA, PWA.
 - 🍮 Current tech tier stack NextJS, MongoDB, vercel. It's all free! Learning TypeScript and Tailwind. 
 - 💞️ I’m looking to collaborate on developments or new ideas or new tech. 
-- 📫 You can reach me here. yongfahjin@hotmail.com
+- 📫 You can reach me here. Feel free to find me! yongfahjin@hotmail.com
 - 🤗 A few of my deployed projects here. https://linktr.ee/yongfahjin
 
 `code ? code : no code` `code && life` not `code || life`
