@@ -1,21 +1,21 @@
 # 👋 Hi, I’m @chocomeowy
 
-I am a Business and Data Analyst with a background in IoT and applied artificial intelligence, currently transitioning into FinTech and SaaS roles. I value analytical precision, structured data, and building highly efficient, practical architectures.
+I am a Data Analyst and Developer with a background in IoT infrastructure, full-stack development, and applied artificial intelligence. I focus on building highly efficient, scalable architectures and transitioning into technical FinTech and SaaS roles.
 
 ### 🔭 Current Focus
-* Pursuing an **MSc in FinTech at NTU**, exploring areas like digital banking licenses, asset securitization, and quantitative modeling (e.g., Monte Carlo simulations).
-* Deploying and configuring **Local LLMs** (Ollama) and building **Autonomous AI Agents** for practical data extraction and automation.
-* Developing modern 3-tier web architectures utilizing Python, JavaScript, and database integrations.
+* Pursuing an **MSc in FinTech at NTU**, exploring digital banking infrastructure, asset securitization, and financial data pipelines.
+* Deploying and configuring **Local LLMs** (Ollama) and building **Autonomous AI Agents** for practical data extraction and automated workflows.
+* Developing modern 3-tier web architectures utilizing Python, JavaScript, and robust database integrations.
 
 ### 🛠️ Technical Arsenal
-* **Data & Analytics:** Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Time-series Data, Numerical Integration
+* **Languages:** Python, JavaScript, TypeScript
+* **Web & Frameworks:** NextJS, React, FastAPI, Flask, Django, MongoDB, Vercel, Tailwind CSS
+* **Data & Infrastructure:** Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Time-series Data
 * **AI & Machine Learning:** Local LLMs, Agentic Workflows, Applied AI Solutions
-* **Languages & Core:** Python, JavaScript, TypeScript
-* **Web & Frameworks:** NextJS, React, FastAPI, MongoDB, Vercel, Tailwind CSS
 
 ### 📈 Professional Highlights
-* **IoT & Data Architecture:** Managed remote monitoring for 40–500 devices and built 20+ custom Grafana dashboards for scalable data visualization at Terrenus Energy (2024–2025).
-* **Enterprise Experience:** Contracted at DBS (2023), developed AI applications at Sentient.io, and spent six years at Apple (2015–2021). 
+* **IoT & Data Architecture:** Managed remote monitoring for 40–500 devices and engineered 20+ custom Grafana dashboards for scalable data visualization at Terrenus Energy (2024–2025).
+* **Enterprise Tech:** Contracted at DBS (2023), developed AI applications at Sentient.io, and spent six years at Apple (2015–2021). 
 
 ### 📫 Let's Connect
 * **Email:** [yongfahjin@hotmail.com](mailto:yongfahjin@hotmail.com)
@@ -25,16 +25,18 @@ I am a Business and Data Analyst with a background in IoT and applied artificial
 
 `const life = code && food && time && health && cat`
 
+### 💻 Tech Stack Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 ```mermaid
-  journey
+timeline
     title My Dev & Data Journey
-    section Foundations & Early Career
-      Apple (2015-2021): 5: Me
-    section AI & Finance
-      Building AI Apps (Sentient.io): 2022: 4: Me
-      Moved to DBS: 2023: 4: Me
-    section IoT Scale & Analytics
-      Terrenus Energy (Grafana): 2024: 6: Me
-    section Present Focus
-      MSc FinTech @ NTU: 2025: 7: Me
-      AI Agents & Local LLMs: 2026: 7: Me
+    2015 - 2021 : Apple
+    2022 : Sentient.io : Applied AI Development
+    2023 : DBS Bank
+    2024 - 2025 : Terrenus Energy : IoT Infrastructure & Grafana
+    2026 : NTU MSc FinTech : Local LLMs & AI Agents
