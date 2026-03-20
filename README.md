@@ -1,34 +1,40 @@
-![img](https://i.imgur.com/gFFbMBH.png)
+# 👋 Hi, I’m @chocomeowy
 
-- 👋 Hi, I’m @chocomeowy
-- 👀 I’m interested in Web development, App development, Machine Learning and other tech that help create a better world
-- 🌱 I’m currently using Python, Machine Learning, Javascript, ReactJS, NextJS, React Native, MERN stack, Vue, AstroJS, FastApi, Flask, django, Quasar and SPA, PWA. ChatGPT. Currently working with ELK elasticsearch, logstash, Kibana, Grafana. 
-- 🍮 Current tech tier stack NextJS, MongoDB, vercel. It's all free! Learning TypeScript and Tailwind
-- 💞️ I’m looking to collaborate on developments or new ideas or new tech
-- 📫 You can reach me here. Feel free to find me! yongfahjin@hotmail.com
-- 🤗 A few of my deployed projects here. https://linktr.ee/yongfahjin
+I am a Business and Data Analyst with a background in IoT and applied artificial intelligence, currently transitioning into FinTech and SaaS roles. I value analytical precision, structured data, and building highly efficient, practical architectures.
 
->Creation without purpose is pointless
+### 🔭 Current Focus
+* Pursuing an **MSc in FinTech at NTU**, exploring areas like digital banking licenses, asset securitization, and quantitative modeling (e.g., Monte Carlo simulations).
+* Deploying and configuring **Local LLMs** (Ollama) and building **Autonomous AI Agents** for practical data extraction and automation.
+* Developing modern 3-tier web architectures utilizing Python, JavaScript, and database integrations.
 
->Life is constant re-discovery 
+### 🛠️ Technical Arsenal
+* **Data & Analytics:** Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Time-series Data, Numerical Integration
+* **AI & Machine Learning:** Local LLMs, Agentic Workflows, Applied AI Solutions
+* **Languages & Core:** Python, JavaScript, TypeScript
+* **Web & Frameworks:** NextJS, React, FastAPI, MongoDB, Vercel, Tailwind CSS
 
-`const life = code && food && time && health && cat` 
+### 📈 Professional Highlights
+* **IoT & Data Architecture:** Managed remote monitoring for 40–500 devices and built 20+ custom Grafana dashboards for scalable data visualization at Terrenus Energy (2024–2025).
+* **Enterprise Experience:** Contracted at DBS (2023), developed AI applications at Sentient.io, and spent six years at Apple (2015–2021). 
+
+### 📫 Let's Connect
+* **Email:** [yongfahjin@hotmail.com](mailto:yongfahjin@hotmail.com)
+* **Portfolio & Projects:** [Linktree](https://linktr.ee/yongfahjin)
+
+> "Creation without purpose is pointless. Life is constant re-discovery."
+
+`const life = code && food && time && health && cat`
 
 ```mermaid
   journey
-    title My Journey as a dev thus far
-    section Learnt ML
-      2019: 7: Me
-      2020: 3: Me
-    section Bootcamp and unemployed
-      2021: 1: Me
-    section Employed and creating AI applications
-      2022: 3: Me
-    section Moved to DBS 
-      2023: 3: Me
-    section Present
-      work: 3: Me
-      life: 7: Me
-    section Creating
-      life: 7: Me
-```
+    title My Dev & Data Journey
+    section Foundations & Early Career
+      Apple (2015-2021): 5: Me
+    section AI & Finance
+      Building AI Apps (Sentient.io): 2022: 4: Me
+      Moved to DBS: 2023: 4: Me
+    section IoT Scale & Analytics
+      Terrenus Energy (Grafana): 2024: 6: Me
+    section Present Focus
+      MSc FinTech @ NTU: 2025: 7: Me
+      AI Agents & Local LLMs: 2026: 7: Me
