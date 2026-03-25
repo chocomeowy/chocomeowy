@@ -7,6 +7,10 @@ I am a Data Analyst and Developer with a background in IoT infrastructure, full-
 * Deploying and configuring **Local LLMs** (Ollama) and building **Autonomous AI Agents** for practical data extraction and automated workflows.
 * Developing modern 3-tier web architectures utilizing Python, JavaScript, and robust database integrations.
 
+### 🚀 Live Projects & Demos
+*Note: The source code for these projects is currently private, but you can explore the live deployments below.*
+* **[Causeway Traffic Monitor](https://causeway.vercel.app/)** * **[Bus Time ETA App](https://bustime-eta.vercel.app/)** * **[Currency Exchange App](https://currency-henna-delta.vercel.app/)** *
+
 ### 🛠️ Technical Arsenal
 * **Languages:** Python, JavaScript, TypeScript
 * **Web & Frameworks:** NextJS, React, FastAPI, Flask, Django, MongoDB, Vercel, Tailwind CSS
@@ -14,8 +18,8 @@ I am a Data Analyst and Developer with a background in IoT infrastructure, full-
 * **AI & Machine Learning:** Local LLMs, Agentic Workflows, Applied AI Solutions
 
 ### 📈 Professional Highlights
-* **IoT & Data Architecture:** Managed remote monitoring for 40–500 devices and engineered 20+ custom Grafana dashboards for scalable data visualization at Terrenus Energy (2024–2025).
-* **Enterprise Tech:** Contracted at DBS (2023), developed AI applications at Sentient.io, and spent six years at Apple (2015–2021). 
+* **IoT & Data Architecture:** Managed remote monitoring for 40 to 500 devices and engineered 20+ custom Grafana dashboards for scalable data visualization at Terrenus Energy (2024 to 2025).
+* **Enterprise Tech:** Contracted at DBS (2023), developed AI applications at Sentient.io, and spent six years at Apple (2015 to 2021). 
 
 ### 📫 Let's Connect
 * **Email:** [yongfahjin@hotmail.com](mailto:yongfahjin@hotmail.com)
