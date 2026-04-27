@@ -9,7 +9,7 @@ I am a Data Analyst and Developer with a background in IoT infrastructure, full-
 
 ### 🚀 Live Projects & Demos
 *Note: The source code for these projects is currently private, but you can explore the live deployments below.*
-* **[Trend Tracker AI LLM]([https://causeway.vercel.app/](https://chocomeowy.github.io/narrative-tracker/))** * **[Causeway Traffic Monitor](https://causeway.vercel.app/)** * **[Bus Time ETA App](https://bustime-eta.vercel.app/)** * **[Currency Exchange App](https://currency-henna-delta.vercel.app/)** *
+* **[Trend Tracker AI LLM](https://chocomeowy.github.io/narrative-tracker/)** * **[Causeway Traffic Monitor](https://causeway.vercel.app/)** * **[Bus Time ETA App](https://bustime-eta.vercel.app/)** * **[Currency Exchange App](https://currency-henna-delta.vercel.app/)** *
 
 ### 🛠️ Technical Arsenal
 * **Languages:** Python, JavaScript, TypeScript
