@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @chocomeowy
 
-I am a Data Analyst and Developer with a background in IoT infrastructure, full-stack development, and applied artificial intelligence. I focus on building highly efficient, scalable architectures and transitioning into technical FinTech and SaaS roles.
+I am a Software Developer / Data Analyst with a background in IoT infrastructure, full-stack development, and applied artificial intelligence. I focus on building highly efficient, scalable architectures and transitioning into technical FinTech and SaaS roles.
 
 ### 🔭 Current Focus
 * Pursuing an **MSc in FinTech at NTU**, exploring digital banking infrastructure, asset securitization, and financial data pipelines.
