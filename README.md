@@ -1,21 +1,21 @@
 # 👋 Hi, I’m @chocomeowy
 
-I am an Applied AI Engineer, Software Developer, and Data Analyst based in Singapore, with experience across IoT monitoring, full-stack development, analytics automation, and AI-enabled products.
+I am an **Applied AI Engineer** based in Singapore, with a background in software development, data analytics, and IoT monitoring.
 
-I build practical systems that connect data, software, and AI. My focus is on turning noisy operational signals, messy workflows, and emerging AI capabilities into tools that are useful, scalable, and easy for people to adopt.
+I build practical AI-enabled products and workflows that connect data, software, and business needs. My work focuses on turning complex operational signals, manual processes, and emerging AI capabilities into tools that are reliable, scalable, and easy to adopt.
 
-I am currently transitioning deeper into AI Engineering, FinTech, and SaaS roles, with a strong interest in AI agents, RAG applications, automation, product analytics, and AI-powered business workflows.
+My current interests include AI agents, RAG applications, workflow automation, product analytics, and AI-powered business systems, particularly within FinTech and SaaS environments.
 
 ---
 
-## 🔭 Current Focus
+## 🔭 Current Work & Focus
 
-- Pursuing an **MSc in FinTech at NTU**, with interest in digital banking infrastructure, financial data pipelines, AI in finance, and applied analytics.
-- Recently completed **Heicoders Academy GA100: Generative AI**.
-- Building with **LLMs, RAG, MCP concepts, prompt engineering, AI-assisted development, and autonomous AI workflows**.
-- Experimenting with **local LLMs using Ollama**, lightweight AI agents, and practical automation workflows.
-- Developing full-stack AI products using **Python, JavaScript, FastAPI, React, NextJS, PostgreSQL, and Vercel**.
-
+- Developing AI-enabled applications and workflows using **LLMs, RAG, prompt engineering, and agentic patterns**.
+- Building full-stack AI products with **Python, JavaScript, FastAPI, React, Next.js, PostgreSQL, and Vercel**.
+- Exploring **local LLM deployments with Ollama**, lightweight agents, and privacy-conscious AI architectures.
+- Applying AI and analytics to improve business workflows, operational visibility, and user decision-making.
+- Pursuing an **MSc in FinTech at NTU**, with interests in digital banking infrastructure, financial data pipelines, and applied AI in finance.
+  
 ---
 
 ## 🚀 Live Projects & Demos
@@ -45,10 +45,10 @@ I am currently transitioning deeper into AI Engineering, FinTech, and SaaS roles
 Python · JavaScript · TypeScript · SQL
 
 ### AI Engineering
-LLMs · RAG · Prompt Engineering · AI Agents · MCP Concepts · Local LLMs · OpenAI APIs · Whisper · Text-to-Speech · Image Generation
+LLMs · RAG · Prompt Engineering · AI Agents · Model Context Protocol (MCP) · Local LLMs · OpenAI APIs · Whisper · Text-to-Speech · Image Generation
 
 ### Web & Backend
-React · NextJS · FastAPI · Flask · Django · NodeJS · REST APIs · Tailwind CSS
+React · Next.js · FastAPI · Flask · Django · Node.js · REST APIs · Tailwind CSS
 
 ### Data & Analytics
 PostgreSQL · BigQuery · Grafana · Google Analytics · Google Tag Manager · Excel · pandas · numpy
@@ -60,6 +60,7 @@ Vercel · GitHub · Linux · Azure · Kubernetes · Docker · Ollama
 
 ## 📈 Professional Highlights
 
+- - **Applied AI Engineering:** Developing AI-enabled products and workflows that combine LLMs, retrieval, automation, data pipelines, and user-facing applications.
 - **AI Product Development:** Built and experimented with AI-powered applications using LLMs, speech-to-text, text-to-speech, image generation, and automation workflows.
 - **IoT & Monitoring:** Expanded remote monitoring coverage from **40 to 500 devices** and built **20+ Grafana dashboards** for solar energy assets at Terrenus Energy.
 - **Analytics Automation:** Automated reporting workflows using Python, PostgreSQL, and dashboarding tools to reduce manual reporting effort and improve operational visibility.
@@ -101,9 +102,10 @@ Vercel · GitHub · Linux · Azure · Kubernetes · Docker · Ollama
 
 ```mermaid
 timeline
-    title My Dev & Data Journey
-    2015 - 2021 : Apple
+    title My Dev, Data & AI Journey
+    2015 - 2021 : Apple : Operations, UAT & Analytics
     2022 : Sentient.io : Applied AI Development
-    2023 : DBS Bank
+    2023 : DBS Bank : Application Monitoring
     2024 - 2025 : Terrenus Energy : IoT Infrastructure & Grafana
-    2026 : NTU MSc FinTech : Local LLMs & AI Agents
+    2026 : Applied AI Engineering : AI Products, RAG & Automation
+         : NTU MSc FinTech
