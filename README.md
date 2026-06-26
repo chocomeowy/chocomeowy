@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @chocomeowy
 
-I am an **Applied AI Engineer** based in Singapore, with a background in software development, data analytics, and IoT monitoring.
+I am an **AI Solution Architect** based in Singapore, with a background in software development, data analytics, and IoT monitoring.
 
 I build practical AI-enabled products and workflows that connect data, software, and business needs. My work focuses on turning complex operational signals, manual processes, and emerging AI capabilities into tools that are reliable, scalable, and easy to adopt.
 
